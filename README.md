@@ -21,54 +21,73 @@
 ## 🎨 스크린샷
 1. **회원가입:** 회원가입 화면
 <img width="350" alt="signup" src="https://github.com/user-attachments/assets/08ad22a2-e70b-42c2-a959-aacc2ad8ec47" />
+
 - 회원가입 성공
 <img width="350" alt="signup_finish" src="https://github.com/user-attachments/assets/41ad0d49-c54e-4dca-be68-7894050aa8e4" />
+
 
 2. **로그인:** 로그인 화면
 <img width="350" alt="login" src="https://github.com/user-attachments/assets/7dd4b441-6cd6-4469-bc1e-530aa7c2ef0c" />
 
+
 3. **홈 화면:** 주간 감정 캘린더와 날짜별 일기 조회가 가능한 메인 화면
 <img width="350" alt="success_login" src="https://github.com/user-attachments/assets/22490401-fc90-4c32-8efb-274d2b1dd921" />
+
 
 4. **일기 작성:**
 <img width="350" alt="write_diary" src="https://github.com/user-attachments/assets/3c2853df-109e-485c-9b51-40e250b1fdcb" />
 
+
 5. **일기 저장:**
 <img width="350" alt="save_diary kt" src="https://github.com/user-attachments/assets/73d8d45f-bf9f-48c9-bffc-16e1740aca0b" />
+
 
 6. **일기 상세 페이지:**
 <img width="350" alt="view_diary" src="https://github.com/user-attachments/assets/962530bb-b066-4653-83f2-83420cab1e0d" />
 
+
 7. **이모지 적용:**
 <img width="350" alt="show_emoticon" src="https://github.com/user-attachments/assets/1e19d434-a908-4132-8162-7cab85fdb7b2" />
+
 
 8. **날짜 선택:**
 <img width="350" alt="select_date" src="https://github.com/user-attachments/assets/cb5f4991-2124-46c8-ad13-b7f0e08ac552" />
 
+
 9. **히스토리 탭:**
 <img width="350" alt="history" src="https://github.com/user-attachments/assets/b1c5be19-35a7-4497-9676-c22ba465dbf1" />
 
+
 10. **설정 탭:**
 <img width="350" alt="setting" src="https://github.com/user-attachments/assets/40898b30-be28-47cb-9633-4d34a0d2ad0d" />
+
 - **계정**
 <img width="350" alt="account" src="https://github.com/user-attachments/assets/e499efe0-d472-4031-8505-7ea84d07bb8d" />
+
   - **이름 변경**
     <img width="350" alt="change_name" src="https://github.com/user-attachments/assets/9d98d1ec-34a3-4a30-b769-df9e83e1d504" />
 
+
 - **푸시 알림**
 <img width="350" alt="select_noti" src="https://github.com/user-attachments/assets/0b3822a8-8f18-47fd-babb-777cb2ce4993" />
+
   - **알림**
   <img width="350" alt="noti" src="https://github.com/user-attachments/assets/e1ef4b72-1099-4fe8-bbb3-3c9b4ce5d1ec" />
 
+
 - **글씨 크기**
   <img width="350" alt="select_textSize" src="https://github.com/user-attachments/assets/86e6d9c6-b08f-41ba-a21a-0d5f7f43b184" />
+  
     -**글씨 크기 변경**
     <img width="350" alt="change_textSize" src="https://github.com/user-attachments/assets/1701c9db-3c9b-4afa-92c6-6a9f1d96de86" />
 
+
 - **언어**
   <img width="350" alt="select_lang" src="https://github.com/user-attachments/assets/9483f552-c59e-4aa7-8809-ded7c0ff98fd" />
+  
   -**언어 변경**
   <img width="350" alt="change_lang" src="https://github.com/user-attachments/assets/5fd75a36-cbe0-4d96-ac92-c6968ad5eb5f" />
+
 
 -**로그아웃**
 <img width="350" alt="logout" src="https://github.com/user-attachments/assets/51e30ef8-87f6-4bb3-b394-4dcb410f44b0" />
